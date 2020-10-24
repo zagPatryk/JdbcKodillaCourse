@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.kodilla.jdbc.DbManagerTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-22T19:03:58" hostname="LAPTOP-VGB2BVPR" time="0.188">
-  <properties/>
-  <testcase name="testSelectUsersAndPosts" classname="com.kodilla.jdbc.DbManagerTestSuite" time="0.188"/>
-  <system-out><![CDATA[John, Smith, 2
-Zachary, Lee, 2
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
